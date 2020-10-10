@@ -1,7 +1,7 @@
 # MyNotes
 
 ## 1.数据结构
-[数据结构](https://github.com/Greenplants923/MyNotes/DataStructure.md "悬停显示")
+[数据结构](https://github.com/Greenplants923/MyNotes/blob/main/DataStructure.md "悬停显示")
 
 ## 2.数据库
 
